@@ -1,6 +1,6 @@
 # Electron App
 
-Ambiente de versões do aplicativo desktop zapclinic
+Ambiente de versões do aplicativo desktop Zapclinic
 
 
 # Publicar Lançamento
